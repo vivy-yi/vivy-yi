@@ -20,11 +20,13 @@
 
 ## 🛠 技术栈
 
+### 应用场景
+
 <table>
 <tr>
 <td valign="top" width="33%">
 
-### 📡 通信
+#### 📡 通信云
 <img src="https://img.shields.io/badge/WebRTC-00D4AA?style=flat&logo=webrtc&logoColor=white" />
 <img src="https://img.shields.io/badge/SIP-00D4AA?style=flat" />
 <img src="https://img.shields.io/badge/RTMP-00D4AA?style=flat" />
@@ -33,35 +35,41 @@
 </td>
 <td valign="top" width="33%">
 
-### 🤖 AI / Agent
+#### 🤖 AI / Agent
 <img src="https://img.shields.io/badge/LLM-FF6B6B?style=flat" />
 <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat" />
 <img src="https://img.shields.io/badge/Agent-FF6B6B?style=flat" />
 <img src="https://img.shields.io/badge/MCP-A020F0?style=flat" />
-<img src="https://img.shields.io/badge/A2A-A020F0?style=flat" />
 <img src="https://img.shields.io/badge/具身智能-FF6B6B?style=flat" />
 
 </td>
 <td valign="top" width="33%">
 
-### ⚙️ 开发
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-333333?style=flat" />
-<img src="https://img.shields.io/badge/Claude-FF6B6B?style=flat&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat" />
-<img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
+#### 📱 iOS & 🎨 前端
+<img src="https://img.shields.io/badge/iOS-333333?style=flat&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
 
 </td>
 </tr>
 </table>
 
----
+### 编程语言 & 框架
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-333333?style=flat" />
+<img src="https://img.shields.io/badge/Claude-FF6B6B?style=flat&logo=anthropic&logoColor=white" />
+
+</div>
 
 ---
 
