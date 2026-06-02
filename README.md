@@ -10,6 +10,8 @@
 ## 🏢 关于我
 
 - 🔭 **通信云 SaaS**: IM / VoIP / 视频会议 / 直播
+- 📱 **iOS 全栈**: Swift / SwiftUI / Objective-C / Flutter
+- 🎨 **前端全栈**: React / Vue / TypeScript / Node.js
 - 🌱 **大模型全栈**: 训练 → 推理 → RAG → Agent
 - 🤖 **Agent 全栈**: 框架 / 工具调用 / 记忆 / 编排
 - 🦾 **具身智能**: Embodied AI / 机器人 / 环境交互
@@ -44,33 +46,22 @@
 
 ### ⚙️ 开发
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-333333?style=flat" />
 <img src="https://img.shields.io/badge/Claude-FF6B6B?style=flat&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat" />
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
 
 </td>
 </tr>
 </table>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-| 统计 | 语言 |
-|:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=vivy-yi&theme=transparent&border_color=00D4AA&title_color=00D4AA&icon_color=00D4AA&text_color=cccccc) | ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vivy-yi&theme=transparent&border_color=00D4AA&title_color=00D4AA&icon_color=00D4AA&text_color=cccccc&hide=HTML,CSS,JavaScript) |
-
-</div>
-
----
-
-## 🎨 贡献图
-
-<div align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/vivy-yi?theme=gradient&height=180&width=750" alt="Contributions" />
-</div>
 
 ---
 
