@@ -2,7 +2,7 @@
 
 <!-- 打字机动画 - 身份标签 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=通信云+SaaS+产品架构师;大模型全栈+工程师;Agent全栈+开发者;具身智能+探索者&font=Fira+Code&size=24&center=true&height=80&width=700&color=00D4AA&background=0D1117" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;LLM+Expert;Agent+Architect;Embodied+AI&font=Fira+Code&size=24&center=true&height=80&width=700&color=00D4AA&background=00000000" alt="Typing SVG" />
 </p>
 
 ---
