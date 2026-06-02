@@ -1,7 +1,7 @@
 # 👋 你好，我是 vivy-yi
 
 <!-- 打字机动画 - 身份标签 -->
-<img src="https://readme-typing-svg.demolab.com?lines=通信云+SaaS+产品架构师;大模型全栈+工程师;Agent全栈+开发者;具身智能+探索者&font=Fira+Code&size=22&center=true&height=60&width=600&color=4ECDC4" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=通信云+SaaS+产品架构师;大模型全栈+工程师;Agent全栈+开发者;具身智能+探索者&font=Fira+Code&size=22&center=true&height=60&width=600&color=4ECDC4" alt="Typing SVG" />
 
 ---
 
@@ -43,17 +43,17 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivy-yi&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=4ECDC4&text_color=cccccc)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivy-yi&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=4ECDC4&text_color=cccccc&hide=HTML,CSS,JavaScript)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=vivy-yi&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=4ECDC4&text_color=cccccc)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vivy-yi&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=4ECDC4&text_color=cccccc&hide=HTML,CSS,JavaScript)
 
 </div>
 
 ---
 
-## 🌊 GitHub Motion - Wave Animation
+## 🎨 贡献图
 
 <div align="center">
-<img src="https://gh-motion-card.vercel.app/api/github-motion?username=vivy-yi&animation=wave&theme=unicorn&hide_rank=false&show_legend=false" alt="GitHub Motion" />
+  <img src="https://github-contributions.vercel.app/api/v1/vivy-yi?theme=gradient&height=200&width=800" alt="Contributions" />
 </div>
 
 ---
@@ -63,22 +63,22 @@
 <div align="left">
 
 ### 🤖 Agent 全栈
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivy-yi&repo=agent-harness&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=FF6B6B&text_color=cccccc)](https://github.com/vivy-yi/agent-harness)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivy-yi&repo=awesome-agent-orchestration&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=FF6B6B&text_color=cccccc)](https://github.com/vivy-yi/awesome-agent-orchestration)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivy-yi&repo=agentic-ai-ecosystem&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=FF6B6B&text_color=cccccc)](https://github.com/vivy-yi/agentic-ai-ecosystem)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vivy-yi&repo=agent-harness&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=FF6B6B&text_color=cccccc)](https://github.com/vivy-yi/agent-harness)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vivy-yi&repo=awesome-agent-orchestration&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=FF6B6B&text_color=cccccc)](https://github.com/vivy-yi/awesome-agent-orchestration)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vivy-yi&repo=agentic-ai-ecosystem&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=FF6B6B&text_color=cccccc)](https://github.com/vivy-yi/agentic-ai-ecosystem)
 
 ### 🧠 大模型全栈
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivy-yi&repo=rag-tutorial&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=4ECDC4&text_color=cccccc)](https://github.com/vivy-yi/rag-tutorial)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivy-yi&repo=awesome-llm-training-inference&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=4ECDC4&text_color=cccccc)](https://github.com/vivy-yi/awesome-llm-training-inference)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivy-yi&repo=mcp-tutorial&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=4ECDC4&text_color=cccccc)](https://github.com/vivy-yi/mcp-tutorial)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vivy-yi&repo=rag-tutorial&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=4ECDC4&text_color=cccccc)](https://github.com/vivy-yi/rag-tutorial)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vivy-yi&repo=awesome-llm-training-inference&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=4ECDC4&text_color=cccccc)](https://github.com/vivy-yi/awesome-llm-training-inference)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vivy-yi&repo=mcp-tutorial&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=4ECDC4&text_color=cccccc)](https://github.com/vivy-yi/mcp-tutorial)
 
 ### 📚 技能与工具
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivy-yi&repo=awesome-skills&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=FF6B6B&text_color=cccccc)](https://github.com/vivy-yi/awesome-skills)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivy-yi&repo=xiaohongshu-skills&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=FF6B6B&text_color=cccccc)](https://github.com/vivy-yi/xiaohongshu-skills)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivy-yi&repo=openclaw-master-tutorial&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=4ECDC4&text_color=cccccc)](https://github.com/vivy-yi/openclaw-master-tutorial)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vivy-yi&repo=awesome-skills&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=FF6B6B&text_color=cccccc)](https://github.com/vivy-yi/awesome-skills)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vivy-yi&repo=xiaohongshu-skills&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=FF6B6B&text_color=cccccc)](https://github.com/vivy-yi/xiaohongshu-skills)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vivy-yi&repo=openclaw-master-tutorial&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=4ECDC4&text_color=cccccc)](https://github.com/vivy-yi/openclaw-master-tutorial)
 
 ### 🔬 深度研究
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivy-yi&repo=awesome-deep-research&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=FF6B6B&text_color=cccccc)](https://github.com/vivy-yi/awesome-deep-research)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vivy-yi&repo=awesome-deep-research&theme=transparent&border_color=4ECDC4&title_color=4ECDC4&icon_color=FF6B6B&text_color=cccccc)](https://github.com/vivy-yi/awesome-deep-research)
 
 </div>
 
@@ -96,5 +96,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=4ECDC4&height=50&text=通信+×+AI+×+具身智能+构建智能未来&fontSize=16" alt="Footer" />
+  <p>📡 通信 × AI × 具身智能 = 智能未来</p>
 </div>
